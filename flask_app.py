@@ -28,7 +28,7 @@ def gen_frames():
 
 @app.route('/')
 def run_script():
-    file = open(r'/Users/alexb/Desktop/DS 440/human_posture_analysis_video.py', 'r').read()
+    file = open(r'/Users/alexb/Desktop/DS 440/human_posture_analysis_video.py', 'r').read() #replace with user file path
     return exec(file)
 
 @app.route('/')
