@@ -3,3 +3,5 @@
 
 ## 
 ![image](https://user-images.githubusercontent.com/77850412/226231591-0fc6002f-cb95-4a93-a94c-624c4d09470e.png)
+
+In Flask_app.py: change file path to where human_posture_analysis_video.py is stored on your machine.
